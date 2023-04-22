@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "job-seeker-diary",
+  "private_key_id": "3378c10f928395d598d9058f17d679bc375e253c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiEesmfI/Zqg2S\nsCDBq8dccxJsrKvoJw1yoCZ7QAYtVFK8jDjJTrqWogauX6qjms4YkzmrKv5a4wOT\nClV0sAp4RVxYQr3s5DyYHSPJjvSBaXEZozzUZwEAqIH3q3+l73BKhh2nByf4oE58\n380hX5R2MRBkBIH6mGZ/XQMDwZBAKB7NgWOaNrkK0tDCQwX0khPONLwq+6MNBrta\nxxMnZQU5kldAw+8cL+zOXrao17MUyQ3sSb6Suo5dWf0PqT4TrCky2hRIk6QPz0ZY\n31CdFHmxCWo1gk+qzy+vawVi2uFp3/eaf0AFARVj6so2P+cCsM1/2EefkpK29Khg\nIFIWsVTjAgMBAAECggEAFsS7q2l+cA7S31O9FlhCprtH0Fqlv/SUkBDttwz0kTOy\nd+ifJbDYx8a1d5PbDib2Yz9zr5dXqn8QBn1CKiV9Iw5jfcbKldgupxQY7f0WXoPo\nrrhfGFvsKSKDN78xLKept96FleyMcgJbZHGwiMq7uasE6Xg0pnb4l1YC0WlFEa4X\nnL8fpgwbh1nzbxsXeAxiUxyJLo1wYX909wbO65AkaLMJjYeMS6rKP6hU4ObzSjkZ\nqEGp1jtJvK9bXVLHwVpRcNqpndVfddQFKA0bOS0LQrtHH4ExzeVdukKe/7xTKnSG\nvyR9qygy7I7KlCa6+5WcJZLJSoF9JluSigh5CZYGuQKBgQDlINSgYBmRJQpMSpta\nw5QJIA1TL7Hyk53XUOpY5BdGxNRkDpws7sngPPq1iO8JNvoZk62Qhk5PyV5jU/2h\n5feVKZlKUaRLjfP7XLbQ4lyTaBPIoAOnpMuqkvyckqNTj8u6hF/Sb0ZwX3XO6mb5\nsYccE18QHd+b5Dwg5VunSnycPQKBgQC1E8hq4tAtAD1/rvHAvH5oHm8jfp7/Kfm9\n2VI0dItjZjclCM57UwtLz8vsoDu9RPtOgfJ0u0jZggSp3mwoM1HngHMvqUasQAdr\ndYwWrKtgDI1d4o+qFBsqJMp232rUQpQbnlUf6F54EEgvIFL1id5SRSjAzJyXO+oi\n1jDFUmsnnwKBgD2pcS9bzWWfRz8y0M5DVgKCqrNZYZU7nr3EW9ziPVVhQRtQRz1c\nYd3D62CRYmrjbbkWYh5D1q1oLsuiXd6FCfUNheBXSlS+9gsOb3CVin5tAu36CiHC\nmsDj37GvUN77EsO2PidepOE2/3hY4q+N1CN9HxcyQuwsJvZfYyQJSrGtAoGAYRz3\nA7wZAcl7MhtVNJTjBlwsJtEl3JtagWMoH1HR38FWGdqbQrDLAiGzsHhPEbcJQJWY\nvtoiu+RrM99CCl1bs9jD7e/PI1pDoHIua4q3bo/M0WlMu16FIxkQLKit1qDOZfGI\nndA1uhahYATp+R2zylOlA6G46bMMYxqUlX8aUOkCgYAWFfDhDmH+N8qsHjlQwk4h\ne5hwAFYz0v/vQFn0dRzFft74g2KQCuWjx3USN4QMGFpxmHnyur3OzeQMy9JSBb2l\ngxGekIu8X1uXdqtSZGwtJeh4ZlsvUwk8sWKaDlvDeCiIObHSeMCB3I7fYMyejHd4\n7SbJjGGRBlUCCnppGTwpCA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-235@job-seeker-diary.iam.gserviceaccount.com",
+  "client_id": "106062916833383569993",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-235%40job-seeker-diary.iam.gserviceaccount.com"
+}
